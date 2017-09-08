@@ -1,7 +1,7 @@
 import csv
 import math
 
-HFA = 65.0     # Home field advantage is worth 65 Elo points
+HFA = 100.0     # Home field advantage is worth 65 Elo points
 K = 20.0       # The speed at which Elo ratings change
 REVERT = 1/3.0 # Between seasons, a team retains 2/3 of its previous season's rating
 
